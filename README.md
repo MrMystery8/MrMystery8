@@ -1,65 +1,60 @@
-# 👋 Hi, I'm Ayaan Minhas (@MrMystery8)
+# Ayaan Minhas (MrMystery8)
 
-## 🚀 About Me
+AI-focused Computer Science student (BSc, Artificial Intelligence) at Asia Pacific University (APU), Kuala Lumpur.  
+I build practical AI systems: LLM/RAG assistants, on-device inference apps, and ML pipelines that ship.
 
-I'm a passionate Computer Science student specializing in **Artificial Intelligence** at Asia Pacific University of Technology and Innovation (APU). Currently working as a **Software Engineer Intern at JurisTech** and serving as a **Research & Development Assistant** at APU's Centre for Technology and Innovation.
+## Focus areas
+- LLM/RAG assistants for education and enterprise knowledge bases
+- On-device AI (Android / Flutter + native integration)
+- TTS + audio provenance (watermarking / attribution experiments)
+- Applied ML (risk prediction, evaluation, deployment)
 
-## 💼 Professional Experience
+## Featured projects
+- **89th Parallel LMS + AI Assistant**  
+  Enterprise-style learning platform with AI-powered study support.  
+  Website: https://89thparallel.me/  
+  (If you prefer, link the app stores here instead of a deep URL.)
 
-### Software Engineer Intern | JurisTech
-*August 2025 - Present | Kuala Lumpur, Malaysia (Hybrid)*
-- Working on enterprise-level software solutions
-- Gaining hands-on experience in software engineering practices
+- **Minhas LMS (RAG Learning Platform)**  
+  Deployed learning platform + Computer Science AI assistant.  
+  https://minhasrupsi.computer/
 
-### Research & Development Assistant | APU - Centre for Technology and Innovation
-*November 2024 - Present | Kuala Lumpur, Malaysia (On-site)*
-- Contributing to cutting-edge research and development projects
-- Supporting innovative technology initiatives
+- **TTS Hub (Unified Audio Generation Platform)**  
+  One hub to run/manage multiple Apple Silicon–optimized TTS & voice-cloning stacks; includes an audio provenance/watermarking direction and classifier workflow.  
+  Repo: https://github.com/MrMystery8/tts-hub
 
-### Previous Roles
-- **Teaching Assistant** at Nixor College (Part-time, 1.5 years)
-- **Database Architect Intern** at Nixor Creative Studios
+- **Voice Note Summarizer (On-device AI)**  
+  Flutter Android app that runs summarization locally with a native Kotlin backend (offline-first, queued processing, share-to-app flows).  
+  Repo: https://github.com/MrMystery8/vm_summ
 
-## 🎓 Education
+- **Injury Risk Prediction (ML pipeline)** *(optional but strong)*  
+  End-to-end modeling + evaluation pipeline for predicting player injury risk with reproducible experiments and dashboards.  
+  Repo: https://github.com/MrMystery8/injury_prediction
 
-**Bachelor's Degree in Computer Science (Specialization in AI)**
-*Asia Pacific University of Technology and Innovation (APU/APIIT)*
-September 2023 - July 2026
+## Experience (recent)
+- **Software Engineer Intern — JurisTech** (Kuala Lumpur, Hybrid)  
+  Worked on enterprise software deliverables and production-facing engineering tasks.
 
-**A Levels in Computer and Information Sciences**
-*Nixor College*
-2021 - 2023
+- **R&D Assistant — APU Centre for Technology & Innovation** (Kuala Lumpur)  
+  Built and tested AI prototypes (LLM/RAG, automation, applied research work).
 
-## 🏆 Major Project: Minhas LMS
+- **Teaching Assistant — Nixor College** (part-time)  
+- **Database Architect Intern — Nixor Creative Studios**
 
-Developed **Minhas LMS**, an innovative Learning Management System featuring:
-- **RAG-based Computer Science AI Assistant** for intelligent learning support
-- Cross-platform availability with both **mobile app** and **website**
-- Designed to enhance educational experiences through AI-powered features
+## Skills
+- **Languages:** Python, Java/Kotlin, JavaScript/TypeScript, PHP, SQL
+- **App/Web:** Flask, React, Flutter, Three.js
+- **AI/ML:** RAG pipelines, embedding retrieval, evaluation, model integration, classical ML workflows
+- **Infra:** Linux, deployment basics, version control (Git)
 
-## 💻 Technical Skills
+## Education
+**BSc Computer Science (Artificial Intelligence)** — Asia Pacific University (APU/APIIT)  
+Expected: 2026
 
-- **Programming Languages:** PHP, Python, SQL/PLSQL
-- **Technologies:** ADODB, Machine Learning, AI Development
-- **Specializations:** Artificial Intelligence, Database Architecture, Full-Stack Development
-- **Total Skills:** 41+ technical competencies
+## Certifications
+- **AI Agents Fundamentals** — Hugging Face (Mar 2025)
+- **AI X-Perience Workshop** — United Latino Students Association (Feb 2025)
 
-## 📜 Certifications
-
-- **AI Agents Fundamentals** - Hugging Face (March 2025)
-  - Credential ID: Mr-Mystery
-- **AI X-Perience Workshop - Learn, Create & Dominate** - United Latino Students Association (February 2025)
-
-## 🌐 Portfolio & Links
-
-🔗 **Portfolio Website:** [mrmystery8.github.io](https://mrmystery8.github.io/)
-
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ayaan-minhas/)
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative AI and software development projects. Feel free to reach out!
-
----
-
-*🌟 Currently exploring the intersection of AI, education technology, and software engineering*
+## Links
+- Portfolio: https://mrmystery8.github.io/
+- LinkedIn: https://www.linkedin.com/in/ayaan-minhas/
