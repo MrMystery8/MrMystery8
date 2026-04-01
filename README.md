@@ -13,7 +13,6 @@ I build practical AI systems: LLM/RAG assistants, on-device inference apps, and 
 - **89th Parallel LMS + AI Assistant**  
   Enterprise-style learning platform with AI-powered study support.  
   Website: https://89thparallel.me/  
-  (If you prefer, link the app stores here instead of a deep URL.)
 
 - **Minhas LMS (RAG Learning Platform)**  
   Deployed learning platform + Computer Science AI assistant.  
@@ -38,8 +37,6 @@ I build practical AI systems: LLM/RAG assistants, on-device inference apps, and 
 - **R&D Assistant — APU Centre for Technology & Innovation** (Kuala Lumpur)  
   Built and tested AI prototypes (LLM/RAG, automation, applied research work).
 
-- **Teaching Assistant — Nixor College** (part-time)  
-- **Database Architect Intern — Nixor Creative Studios**
 
 ## Skills
 - **Languages:** Python, Java/Kotlin, JavaScript/TypeScript, PHP, SQL
