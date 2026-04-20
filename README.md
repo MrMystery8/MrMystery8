@@ -26,7 +26,7 @@ I build practical AI systems: LLM/RAG assistants, on-device inference apps, and 
   Flutter Android app that runs summarization locally with a native Kotlin backend (offline-first, queued processing, share-to-app flows).  
   Repo: https://github.com/MrMystery8/vm_summ
 
-- **Injury Risk Prediction (ML pipeline)** *(optional but strong)*  
+- **Injury Risk Prediction (ML pipeline)** 
   End-to-end modeling + evaluation pipeline for predicting player injury risk with reproducible experiments and dashboards.  
   Repo: https://github.com/MrMystery8/injury_prediction
 
